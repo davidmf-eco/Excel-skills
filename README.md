@@ -1,10 +1,8 @@
-# Excel-skills
-Repository with some files showing my skills managing excel
-
 # Excel Exercises
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 Tools worked:
+- Dashboards
 - Power Query
-- Pivot Table
-- Dashboard 
+- Power Pivot
+- Dashboards
